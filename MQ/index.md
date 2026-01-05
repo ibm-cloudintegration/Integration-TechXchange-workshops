@@ -10,7 +10,7 @@ An application developer has a choice of programming interfaces, and programming
 
 |  Topic                                            | Description                                                                
 |--------------------------------------------|-----------------------------------------------------------------------------|
-| [MQ Advanced](https://pages.github.ibm.com/americas-integration/MQ-Advanced-pot/)        | This section you will tap into the value of existing data flowing over MQ with zero impact to the existing applications or their messages, and without a need for re-architecture your message flows. 
+| [MQ Advanced](https://ibm-cloudintegration.github.io/MQ-Advanced-pot/)        | This section you will tap into the value of existing data flowing over MQ with zero impact to the existing applications or their messages, and without a need for re-architecture your message flows. 
 |--------------------------------------------|-----------------------------------------------------------------------------|  
 | [MQ Appliance](https://ibm-cloudintegration.github.io/MQ-Appliance-PoT-9.4/)      |  The IBM MQ Appliance provides a simplified messaging solution by combining many of the benefits of IBM MQ with those of a physical appliance. Like IBM MQ, the IBM MQ Appliance provides a rapid, reliable, security-rich infrastructure, but unlike IBM MQ, it combines software with hardware.  
 |--------------------------------------------|-----------------------------------------------------------------------------|
